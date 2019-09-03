@@ -1,0 +1,11 @@
+body {
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size:12pt;
+    background-color: #444444; 
+    padding: 20px;
+}
+
+* {
+    box-sizing: border-box;
+}
